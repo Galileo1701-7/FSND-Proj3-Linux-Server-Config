@@ -5,7 +5,7 @@ Full Stack Nanodegree final project. Linux Server Configuration
 
 Due to issues with the class material in the second section, I was exempted from the second project.
 Attempts to get support on this topic caused over a two month delay in my class. 
-Please contact Dekota S. for more information if necessary.
+Please contact Dakota S. for more information if necessary.
 
 
 In order to complete the final project, I deployed a substitute app to my configured Ubuntu server.
