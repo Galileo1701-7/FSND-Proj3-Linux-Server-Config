@@ -16,6 +16,9 @@ This simple app demonstrates the proper function of the ubuntu-apache-wsgi-flask
 With this caveat, my project satisfies the rubric. 
 
 
+App files are located at /var/www/flask-prod/
+
+
 ## IP address of the server
 
 18.224.52.21
