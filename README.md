@@ -12,7 +12,7 @@ In order to complete the final project, I deployed a substitute app to my config
 The deployed app uses flask, an HTML template, css, and queries a PostgresQL database to display a table containing data (specifically the UK Beatles Discography). I used python to create and insert data into the "beatles" table on the posgresql database called "allen".
 
 
-This simple app demonstrates the proper function of the ubuntu-apache-wsgi-flask-python-posgresql stack.
+This simple app demonstrates the proper function of the ubuntu-apache-wsgi-flask-python-postgresql stack.
 With this caveat, my project satisfies the rubric. 
 
 
@@ -40,7 +40,7 @@ PYTHON - installed
 
 Flask - installed
 
-PosgresQL - installed and configured for "psql" users
+PostgresQL - installed and configured for "psql" users
 
 Psycopg2 - installed
 
