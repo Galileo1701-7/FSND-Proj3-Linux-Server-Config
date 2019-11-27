@@ -35,7 +35,7 @@ PYTHON - installed
 
 Flask - installed
 
-PosgreQL - installed and configured for "psql" users
+PosgresQL - installed and configured for "psql" users
 
 Psycopg2 - installed
 
