@@ -21,9 +21,9 @@ With this caveat, my project satisfies the rubric.
 
 
 ## Software Installed and Configuration Changes (summary)
-Lightspan - Created Lightspan Ubuntu instance per project instructions.
+Lightspan - Created Lightspan Ubuntu instance per project instructions. Set Lightspan firewall to only allow 2200, 80, 123.
 
-Ubuntu - Ran all updates. Configured sshd.conf file to move ssh to port 2200 and disable password authentication. Set timezone, etc.
+Ubuntu - Ran all updates. Configured sshd.conf file to move ssh to port 2200 and disable password authentication. Set Lightspan firewall to only allow 2200, 80, 123. Set timezone, etc.
 
 Apache - Installed and configured for http on port 80. 
 
