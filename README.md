@@ -20,7 +20,7 @@ The deployed app uses flask, an HTML template, css, and queries a PostgresQL dat
 ## Software Installed and Configuration Changes (summary)
 Lightspan - Created Lightspan Ubuntu instance per project instructions.
 
-Ubuntu - Ran all updates. Configured sshd.conf file to move ssh to port 2200 and disable password authentication. 
+Ubuntu - Ran all updates. Configured sshd.conf file to move ssh to port 2200 and disable password authentication. Set timezone, etc.
 
 Apache - Installed and configured for http on port 80. 
 
