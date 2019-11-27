@@ -5,7 +5,10 @@ Full Stack Nanodegree final project. Linux Server Configuration
 
 Due to issues with the class material in the second section, I was exempted from the second project.
 In order to complete the final project, I deployed a substitute app to my configured Ubuntu server.
-The deployed app uses flask, an HTML template, css, and queries a PostgresQL database to display a table containing data (specifically the UK Beatles Discography). I used python to create and insert data into the "beatles" table.
+The deployed app uses flask, an HTML template, css, and queries a PostgresQL database to display a table containing data (specifically the UK Beatles Discography). I used python to create and insert data into the "beatles" table on the posgresql database called "allen".
+
+This simple app demonstrates the proper function of the ubuntu-apache-wsgi-flask-python-posgresql stack.
+With this caveat, my project satisfies the rubric. 
 
 
 ## IP address of the server
